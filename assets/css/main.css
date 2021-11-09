@@ -4688,3 +4688,10 @@ input, select, textarea {
 		}
 
 	}
+	.logo{
+		width:10%;
+		height:8%;
+	}
+	.skills{
+		background: rgba(255, 255, 255, 0.175);
+	}
